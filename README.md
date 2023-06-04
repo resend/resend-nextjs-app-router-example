@@ -23,5 +23,9 @@ npm run dev
 4. Open URL in the browser:
 
   ```
-http://localhost:3000
+http://localhost:3000/api/send
   ```
+
+## License
+
+MIT License
