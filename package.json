@@ -5,13 +5,13 @@
     "dev": "next dev"
   },
   "dependencies": {
-    "next": "13.4.13",
+    "next": "13.4.16",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "resend": "latest"
   },
   "devDependencies": {
-    "@types/node": "20.4.8",
+    "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "typescript": "5.1.6"
   }
