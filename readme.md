@@ -20,10 +20,10 @@ yarn
 npm run dev
   ```
 
-4. Open URL in the browser:
+4. Make a curl request
 
   ```
-http://localhost:3000/api/send
+curl -X POST http://localhost:3000/api/send
   ```
 
 ## License
