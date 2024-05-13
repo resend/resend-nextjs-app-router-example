@@ -14,11 +14,11 @@ export async function POST() {
     });
 
     if (error) {
-      return Response.json({ error });
+      return Response.json({ error }, { status: 500 });
     }
 
     return Response.json({ data });
   } catch (error) {
-    return Response.json({ error });
+    return Response.json({ error }, { status: 500 });
   }
 }
