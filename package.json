@@ -5,6 +5,7 @@
     "dev": "next dev"
   },
   "dependencies": {
+    "@react-email/components": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
