@@ -1,41 +1,23 @@
 # Resend with Next.js (App Router)
 
-This example shows how to use Resend with [Next.js](https://nextjs.org).
+> [!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Next.js (App Router) examples here](https://github.com/resend/resend-examples/tree/main/nextjs-resend-examples)**
 
-## Deploy your own
+## New examples repo
 
-Deploy the example using [Vercel](https://vercel.com):
+The [resend/resend-examples](https://github.com/resend/resend-examples) repository includes comprehensive, up-to-date examples for:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/resend/resend-nextjs-app-router-example&project-name=resend-nextjs-app-router-example&repository-name=resend-nextjs-app-router-example&env=RESEND_API_KEY)
+- Sending emails (basic, attachments, templates, scheduled)
+- Contact forms and server actions
+- Inbound webhooks and webhook verification
+- Audience and domain management
+- Authentication flows
+- And more
 
-## Instructions
-
-1. Define environment variables in `.env` file.
-
-```sh
-cp .env.example .env
-```
-
-2. Install dependencies:
-
-```sh
-npm install
-# or
-yarn
-```
-
-3. Run Next.js locally:
-
-```sh
-npm run dev
-```
-
-4. Make a curl request
-
-```sh
-curl -X POST http://localhost:3000/api/send
-```
+**[Browse all examples](https://github.com/resend/resend-examples)**
 
 ## License
 
-MIT License
+MIT
