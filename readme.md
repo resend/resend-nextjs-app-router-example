@@ -1,3 +1,11 @@
+> [\!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Next.js (App Router) examples here](https://github.com/resend/resend-examples/tree/main/nextjs-resend-examples)**
+
+---
+
+
 # Resend with Next.js (App Router)
 
 This example shows how to use Resend with [Next.js](https://nextjs.org).
