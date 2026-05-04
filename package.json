@@ -8,6 +8,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-email": "latest",
     "resend": "latest"
   },
   "devDependencies": {
